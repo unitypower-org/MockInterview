@@ -7,10 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Extensions\**" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="Persistence\**" />
+    <EmbeddedResource Remove="Extensions\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="Persistence\**" />
+    <None Remove="Extensions\**" />
+    <None Remove="Models\**" />
+    <None Remove="Persistence\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Entities\" />
-    <Folder Include="Extensions\" />
-    <Folder Include="Models\" />
-    <Folder Include="Persistence\" />
   </ItemGroup>
 
 </Project>
