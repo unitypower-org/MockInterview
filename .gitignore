@@ -15,6 +15,12 @@
 *.userprefs
 
 *.suo*
+*obj
+*vs
+*v17
+*.vs
+*.VisualStudio
+*VisualStudio
 
 # Mono auto generated files
 mono_crash.*
@@ -364,4 +370,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/MockInterview/v17/.suo
 /.vs/MockInterview/v17/.suo
