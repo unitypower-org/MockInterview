@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FKHAM95psJjd79Ki75NYHSOaZvTt7T2i7DVE79cZZuPoUscbtsGtKhV1qPKL7XbzgVrHDTMSclis+rMP0b0wMA==",
+  "dgSpecHash": "WfPJEn89lCxxUtaiG30wfSqzwXfUxoowP3N04peNmTr7RT8XHDL7ecCkVbo1/2TLnSevDPveov3gBBngwM6oqA==",
   "success": true,
   "projectFilePath": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
