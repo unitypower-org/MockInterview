@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MockInterview.Application.InterlocutorService
 {
-    public class IInterlocutorService
+    public interface IInterlocutorService
     {
     }
 }
