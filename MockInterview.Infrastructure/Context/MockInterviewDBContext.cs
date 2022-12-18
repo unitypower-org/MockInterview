@@ -2,11 +2,6 @@
 using MockInterview.Domain.Entities.Client;
 using MockInterview.Domain.Entities.Interlocutor;
 using MockInterview.Domain.Entities.Interviewer;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MockInterview.Infrastructure.Context
 {
@@ -31,7 +26,7 @@ namespace MockInterview.Infrastructure.Context
         /// <summary>
         /// SelectedInterlocatorsCategories table
         /// </summary>
-        public DbSet<SelectedInterlocutorInterviewCategories> SelectedInterlocatorsCategories { get;set; }
+        public DbSet<SelectedInterlocutorInterviewCategories> SelectedInterlocatorsCategories { get; set; }
 
         /// <summary>
         /// Interviewers table
@@ -47,8 +42,8 @@ namespace MockInterview.Infrastructure.Context
         /// connect models
         /// </summary>
         /// <param name="options"></param>
-        public MockInterviewDBContext(DbContextOptions<MockInterviewDBContext> options): base(options) { }
-        
+        public MockInterviewDBContext(DbContextOptions<MockInterviewDBContext> options) : base(options) { }
+
 
     }
 }
