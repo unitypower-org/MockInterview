@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using MockInterview.Domain.Entities.BaceModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,9 +8,8 @@ using System.Threading.Tasks;
 
 namespace MockInterview.Domain.Entities.Interviewer
 {
-    public class Interviewer
+    public class Interviewer : EntityBace
     {
-        public int Id { get; set; }
         public string FirstName { get; set; } = string.Empty;
         public string LastName { get; set; } = string.Empty;
         public string Level { get; set; } = string.Empty;   
