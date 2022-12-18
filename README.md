@@ -1,0 +1,3 @@
+# MockInterview
+
+### Qo'ldan kegancha
