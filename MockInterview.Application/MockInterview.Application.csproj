@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MockInterview.Domain\MockInterview.Domain.csproj" />
+    <ProjectReference Include="..\MockInterview.Infrastructure\MockInterview.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
