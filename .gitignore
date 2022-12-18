@@ -15,6 +15,12 @@
 *.userprefs
 
 *.suo*
+*obj
+*vs
+*v17
+*.vs
+*.VisualStudio
+*VisualStudio
 
 # Mono auto generated files
 mono_crash.*
