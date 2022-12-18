@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Extensions\" />
-    <Folder Include="Models\Interviewer\" />
     <Folder Include="Persistence\" />
   </ItemGroup>
 
