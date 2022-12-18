@@ -17,9 +17,11 @@ namespace MockInterview.Application.Mapping
     {
         public MappingProfile()
         {
+            // Typelarni bir biriga convert qilishda qiynalmaslik uchun
             CreateMap<string, int>().ConvertUsing<IntTypeConverter>();
             CreateMap<string, int?>().ConvertUsing<NullIntTypeConverter>();
 
+            // buyerda DTO dan kelgan malumotlarni asosiy modelga qo'shib beradi
             CreateMap<Client, ClientDTO>().ReverseMap();
             CreateMap<Interviewer, InterviewerDTO>().ReverseMap();
             CreateMap<Interlocutor, InterlocutorDTO>().ReverseMap();
@@ -28,7 +30,9 @@ namespace MockInterview.Application.Mapping
             CreateMap<InterviewerProjects, InterviewerProjectsDTO>().ReverseMap();
             
         }
-
+        /// <summary>
+        /// Type Convertor zo'r narsa
+        /// </summary>
         #region AutoMapTypeConverters
         private class NullIntTypeConverter : ITypeConverter<string, int?>
         {
