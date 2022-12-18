@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj": {}
+    "D:\\mock\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj": {
+    "D:\\mock\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj",
+        "projectUniqueName": "D:\\mock\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj",
         "projectName": "MockInterview.Domain",
-        "projectPath": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj",
-        "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Domain\\obj\\",
+        "projectPath": "D:\\mock\\MockInterview\\MockInterview.Domain\\MockInterview.Domain.csproj",
+        "packagesPath": "C:\\Users\\HUSNIDDIN\\.nuget\\packages\\",
+        "outputPath": "D:\\mock\\MockInterview\\MockInterview.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HUSNIDDIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

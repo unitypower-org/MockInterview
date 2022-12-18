@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\muham\\.nuget\\packages\\": {},
+    "C:\\Users\\HUSNIDDIN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Application\\MockInterview.Application.csproj",
+      "projectUniqueName": "D:\\mock\\MockInterview\\MockInterview.Application\\MockInterview.Application.csproj",
       "projectName": "MockInterview.Application",
-      "projectPath": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Application\\MockInterview.Application.csproj",
-      "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Application\\obj\\",
+      "projectPath": "D:\\mock\\MockInterview\\MockInterview.Application\\MockInterview.Application.csproj",
+      "packagesPath": "C:\\Users\\HUSNIDDIN\\.nuget\\packages\\",
+      "outputPath": "D:\\mock\\MockInterview\\MockInterview.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HUSNIDDIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
