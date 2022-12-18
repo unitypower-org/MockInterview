@@ -83,10 +83,7 @@ namespace MockInterview.Infrastructure.Repositories
         /// <param name="expression"></param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
-        public Task<T> GetAsync(Expression<Func<T, bool>> expression)
-        {
-            return _dbSet.FirstOrDefaultAsync(expression);
-        }
+        public Task<T> GetAsync(Expression<Func<T, bool>> expression) => _dbSet.FirstOrDefaultAsync(expression);
 
         /// <summary>
         /// Update
