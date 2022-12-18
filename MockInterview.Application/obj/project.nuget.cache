@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ep3iKQ92+/hz0AXGskLnJlgB9nMFpChxC01YnVvQjWCOEULW8RgoGJ0EFT2TFtfeVlR5Geb5/zV/KIbTxOpVRg==",
+  "dgSpecHash": "3Xh7EUJZhA2NVvJdspxyI+08xF9CsiMnQk6FTOK91dJp0aXJ3AyOlrybGm0YAqgyoyyDjrEkIEIUmwmIIUr5RQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\muham\\OneDrive\\Documents\\MockInterview\\MockInterview\\MockInterview.Application\\MockInterview.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
