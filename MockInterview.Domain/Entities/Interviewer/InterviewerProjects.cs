@@ -10,6 +10,6 @@ namespace MockInterview.Domain.Entities.Interviewer
     {
         public int Id { get; set; }
         public int InterviewerId { get; set; }
-        public string ProjectName { get; set; }
+        public string ProjectName { get; set; } = string.Empty;
     }
 }
